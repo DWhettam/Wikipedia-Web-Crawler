@@ -1,5 +1,5 @@
 # Wikipedia-Web-Crawler
-Basic web crawler inspire by the Udacity, [Introduction to Python Programming](https://eu.udacity.com/course/introduction-to-python--ud1110) course.
+Basic web crawler inspired by the Udacity, [Introduction to Python Programming](https://eu.udacity.com/course/introduction-to-python--ud1110) course.
 
 ------------------------------------------------------------------------------------------------
 Crawls Wikipedia by selecting the first link of each page. Crawls continuously until the specified page is found, or the crawler navigates to a previously visited page.
