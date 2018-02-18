@@ -5,7 +5,7 @@ Basic web crawler inspired by the Udacity, [Introduction to Python Programming](
 Crawls Wikipedia by selecting the first link of each page. Crawls continuously until the specified page is found, or the crawler navigates to a previously visited page.
 
 ## Arguments
-'-s [URL]' - Specifies a start URL. If not provided, defaults to a random wikipedea page  
+'-s [URL]' - Specifies a start URL. If not provided, defaults to a random wikipedia page  
 '-g [URL]' - Specifices a goal URL. If not provided, defaults to https://en.wikipedia.org/wiki/Philosophy
 
 ## Requirements
