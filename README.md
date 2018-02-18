@@ -9,6 +9,6 @@ Crawls Wikipedia by selecting the first link of each page. Crawls continuously u
 '-g [URL]' - Specifices a goal URL. If not provided, defaults to https://en.wikipedia.org/wiki/Philosophy
 
 ## Requirements
-[Reguests](https://github.com/requests/requests)  
+[Requests](https://github.com/requests/requests)  
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
